@@ -1,0 +1,14 @@
+target/
+tests/
+examples/
+docs/
+.git/
+*.log
+*.exe
+*.dll
+*.pdb
+*.obj
+*.lib
+*.bin
+*.dat
+*.iso
